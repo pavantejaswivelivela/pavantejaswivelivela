@@ -7,13 +7,18 @@
 - 📫 How to reach me  
 
 Research Connect
--[ResearchGate: pavantejaswivelivela](https://www.researchgate.net/profile/Pavan-Velivela)
--[Linkedin: pavan tejaswi velivela](https://www.linkedin.com/in/pavantejaswivelivela/)
+
+[ResearchGate: pavantejaswivelivela](https://www.researchgate.net/profile/Pavan-Velivela)
+
+[Linkedin: pavan tejaswi velivela](https://www.linkedin.com/in/pavantejaswivelivela/)
 
 Social Connect
--[Twitter: @pavantejaswiv](https://twitter.com/pavantejaswiv)
--[Facebook: @pavantejaswivelivela](https://www.facebook.com/pavan.tejaswivelivela)
--[Instagram: @pavantejaswi](https://www.instagram.com/pavantejaswi/?hl=en)
+
+[Twitter: @pavantejaswiv](https://twitter.com/pavantejaswiv)
+
+[Facebook: @pavantejaswivelivela](https://www.facebook.com/pavan.tejaswivelivela)
+
+[Instagram: @pavantejaswi](https://www.instagram.com/pavantejaswi/?hl=en)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=pavantejaswivelivela&&show_icons=true&title_color=ffffff&icon_color=FFBF00&text_color=daf7dc&bg_color=4D516D">
 
