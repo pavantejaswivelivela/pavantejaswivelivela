@@ -1,9 +1,9 @@
 ## Introduction
--Hi, I’m @pavantejaswivelivela
- I hold a B.Tech in Mechanical Engineering, from Koneru Lakshmaiah College of Engineering and MSc in Design and Engineering, from Politecnico di Milano
- I’m interested in data science for product design research and innovation
- I’m currently learning data science
- I’m looking to collaborate on innovation using data science
+Hi, I’m @pavantejaswivelivela. 
+I hold a B.Tech in Mechanical Engineering, from Koneru Lakshmaiah College of Engineering and MSc in Design and Engineering, from Politecnico di Milano.
+I’m interested in data science for product design research and innovation.
+I’m currently learning data science.
+I’m looking to collaborate on innovation using data science.
 
 ## Research
 
