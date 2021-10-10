@@ -8,9 +8,11 @@ I’m looking to collaborate on product innovation using Data science.
 
 [ResearchGate](https://www.researchgate.net/profile/Pavan-Velivela)
 
-[Linkedin](https://www.linkedin.com/in/pavantejaswivelivela/)
+
 
 ## Social media
+
+[Linkedin](https://www.linkedin.com/in/pavantejaswivelivela/)
 
 [Twitter](https://twitter.com/pavantejaswiv)
 
