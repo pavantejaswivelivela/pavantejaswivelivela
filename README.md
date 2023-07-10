@@ -1,14 +1,10 @@
 ## Introduction
 Hi, I’m @pavantejaswivelivela. 
-I’m interested in Data science + Industrial design + Mechanical engineering + Bio-inspiration
-I’m currently learning Data science.
-I’m looking to collaborate on product innovation using Data science.
+I’m working at the intersection of Bio-inspiration, Material Science, Design, Mechanical Engineering, Tissue Engineering and Artificial Intelligence. 
+I’m looking to collaborate on innovative product development.
 
 ## Research
-
 [ResearchGate](https://www.researchgate.net/profile/Pavan-Velivela)
-
-
 
 ## Social media
 
