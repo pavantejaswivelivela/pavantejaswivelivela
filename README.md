@@ -1,20 +1,14 @@
 ## Introduction
 Hi, I’m @pavantejaswivelivela. 
-I’m working at the intersection of Bio-inspiration, Material Science, Design, Mechanical Engineering, Tissue Engineering and Artificial Intelligence. 
-I’m looking to collaborate on innovative product development.
+I am a Ph.D. candidate in the Mechanical Engineering Department at McGill University working on the methods to produce Multifunctional Bio-inspired Design (MBID). 
+I’m working at the intersection of Bio-inspiration, Material Science, Industrial Design, Mechanical Engineering, and Artificial Intelligence. 
+
+I hold a Master of Science (Laurea Magistrale) in Design & Engineering from the Politecnico di Milano, Italy, and a Bachelor in Mechanical Engineering from Koneru Lakshmaiah College of Engineering (K L University), India.
+
 
 ## Research
 [ResearchGate](https://www.researchgate.net/profile/Pavan-Velivela)
 
-## Social media
-
-[Linkedin](https://www.linkedin.com/in/pavantejaswivelivela/)
-
-[Twitter](https://twitter.com/pavantejaswiv)
-
-[Facebook](https://www.facebook.com/pavan.tejaswivelivela)
-
-[Instagram](https://www.instagram.com/pavantejaswi/?hl=en)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=pavantejaswivelivela&&show_icons=true&title_color=ffffff&icon_color=FFBF00&text_color=daf7dc&bg_color=4D516D">
 
