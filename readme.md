@@ -13,3 +13,5 @@ I hold a Master of Science (Laurea Magistrale) in Design & Engineering from the 
 
 #### @Social
 - [LinkedIn]()
+
+<h5> &copy; Pavan Tejaswi Velivela @ ADML, McGill Univesity </h5> 
