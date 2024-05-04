@@ -7,11 +7,11 @@ I hold a Master of Science (Laurea Magistrale) in Design & Engineering from the 
 ## @Research Focus
 - Biologically inspired conceptual design and engineering
 
-## @Research 
+#### @Research 
 - [ResearchGate](https://www.researchgate.net/profile/Pavan-Velivela)
 - [Google Scholar]()
 
-#### @Social
+#### @Connect
 - [LinkedIn]()
 
 <h5> &copy; Pavan Tejaswi Velivela @ ADML, McGill Univesity </h5> 
