@@ -4,10 +4,10 @@ I am a PhD candidate in the Mechanical Engineering Department at McGill Universi
 I work at the intersection of Bioinspiration, Material Science, Industrial Design, Mechanical Engineering, and Machine Learning. 
 I hold a Master of Science (Laurea Magistrale) in Design & Engineering from the Politecnico di Milano, Italy, and a Bachelor in Mechanical Engineering from Koneru Lakshmaiah College of Engineering (KL deemed to be University), India.
 
-## @Research Focus
+#### @Research Focus
 - Biologically inspired conceptual design and engineering
 
-#### @Research 
+#### @Publications 
 - [ResearchGate](https://www.researchgate.net/profile/Pavan-Velivela)
 - [Google Scholar]()
 
