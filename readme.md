@@ -5,7 +5,7 @@ I work at the intersection of Bioinspiration, Material Science, Industrial Desig
 I hold a Master of Science (Laurea Magistrale) in Design & Engineering from the Politecnico di Milano, Italy, and a Bachelor in Mechanical Engineering from Koneru Lakshmaiah College of Engineering (KL deemed to be University), India.
 
 #### @Research Focus
-- Biologically inspired conceptual design and engineering
+- Biologically inspired multifunctional conceptual design and engineering
 
 #### @Publications 
 - [ResearchGate](https://www.researchgate.net/profile/Pavan-Velivela)
