@@ -6,8 +6,8 @@ I hold a Master of Science (Laurea Magistrale) in Design & Engineering from the 
 
 #### @Research Focus
 
-- Biologically inspired multifunctional conceptual design and engineering: Multifunctional Bio-inspired Design (MBID) [MBID](https://pavantejaswivelivela.github.io/Multifunctional-BID/)
-- Online knowledge database of Biological feature information [BIKAS](https://bikas.onrender.com/)
+- Biologically inspired multifunctional conceptual design and engineering: Multifunctional Bio-inspired Design (MBID) Link: [MBID](https://pavantejaswivelivela.github.io/Multifunctional-BID/)
+- Online knowledge database of Biological feature information Link: [BIKAS](https://bikas.onrender.com/)
 - [Personal Portfolio](https://sites.google.com/view/pavantejaswivelivela)
 #### @Publications 
 
