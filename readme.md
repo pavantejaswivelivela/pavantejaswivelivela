@@ -1,6 +1,6 @@
 ## Introduction
 Hi, I’m @pavantejaswivelivela. 
-I graduated with a PhD degree in Mechanical Engineering from McGill University. My work is focused on developing an ideation system to produce Multifunctional Bio-inspired Design (MBID). 
+I graduated with a Ph.D. in Mechanical Engineering from McGill University. My work is focused on developing a **structured ideation framework** to design **early-stage bio-inspired multifunctional technologies**. 
 I work at the intersection of Bioinspiration, Material Science, Industrial Design, Mechanical Engineering, and Machine Learning. 
 I hold a Master of Science (Laurea Magistrale) in Design & Engineering from the Politecnico di Milano, Italy, and a Bachelor in Mechanical Engineering from Koneru Lakshmaiah College of Engineering (KL deemed to be University), India.
 
@@ -19,6 +19,6 @@ I hold a Master of Science (Laurea Magistrale) in Design & Engineering from the 
 - [LinkedIn](https://www.linkedin.com/in/pavantejaswivelivela/)
 
 
-<h5> &copy; 2024 Pavan Tejaswi Velivela. All rights reserved </h5>
-The land I work at is situated on the traditional territory of the Kanien’kehà:ka, a place which has long served as a site of meeting and exchange amongst many First Nations including the Kanien’kehá:ka of the Haudenosaunee Confederacy, Huron/Wendat, Abenaki, and Anishinaabeg. 
+<h5> &copy; 2025 Pavan Tejaswi Velivela. All rights reserved </h5>
+The land I work at is situated on the traditional territory of the Kanien’kehà:ka, a place which has long served as a site of meeting and exchange amongst many First Nations, including the Kanien’kehá:ka of the Haudenosaunee Confederacy, Huron/Wendat, Abenaki, and Anishinaabeg. 
 
