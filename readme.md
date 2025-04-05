@@ -7,7 +7,7 @@ If you’re looking to explore bio-inspired innovation through a structured, fir
 ## Education
 - Doctor of Philosophy in Mechanical Engineering from McGill University, Canada
 - Master of Science (Laurea Magistrale) in Design & Engineering from the Politecnico di Milano, Italy
-- Bachelor in Mechanical Engineering from Koneru Lakshmaiah College of Engineering (KL deemed to be University), India.
+- Bachelor of Technology in Mechanical Engineering from Koneru Lakshmaiah College of Engineering (KL deemed to be University), India.
 
 #### @Research Focus
 
