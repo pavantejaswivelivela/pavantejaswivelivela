@@ -13,7 +13,7 @@ If you’re looking to explore bio-inspired innovation through a structured, fir
 - Bachelor of Technology in Mechanical Engineering - Koneru Lakshmaiah College of Engineering (KL deemed to be a University), India.
 
 #### @Research Focus
-- MBID **ideation system** : Link: [MBID ideation system]()
+- MBID **ideation system** : Link: [MBID ideation system](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
 - Brief overview of Multifunctional Bio-inspired Design (MBID) Link: [MBID](https://pavantejaswivelivela.github.io/Multifunctional-BID/)
 - Online knowledge database of Biological feature information Link: [BIKAS](https://bikas.onrender.com/)
   
