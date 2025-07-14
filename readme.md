@@ -3,7 +3,8 @@ Hi, I’m @pavantejaswivelivela.
 I specialise in R&D for Early-Stage Bio-Inspired Multifunctional Technologies, developing a **Structured Front-End Ideation System** that enables the creation of **bio-inspired multifunctional technologies**. My work bridges biology, design, and engineering to generate innovative multifunctional solutions across industries, from healthcare and aerospace to automotive and marine applications.
 By integrating morphology (form), function, and materials, my framework provides a systematic approach to ideation, allowing researchers and industries to develop novel structures, components, and products that achieve unconventional functionalities.
 
-The ideation system is known as the MBI -D **ideation system**
+The ideation system is known as the MBID **ideation system**.
+
 If you’re looking to explore bio-inspired innovation through a structured, first-principles-driven approach, let’s connect
 
 ## Education
@@ -12,19 +13,18 @@ If you’re looking to explore bio-inspired innovation through a structured, fir
 - Bachelor of Technology in Mechanical Engineering - Koneru Lakshmaiah College of Engineering (KL deemed to be a University), India.
 
 #### @Research Focus
-
-- Concept design and engineering of bio-inspired multifunctional technologies: Multifunctional Bio-inspired Design (MBID) Link: [MBID](https://pavantejaswivelivela.github.io/Multifunctional-BID/)
-- 
+- MBID **ideation system** : Link: [MBID ideation system]()
+- Brief overview of Multifunctional Bio-inspired Design (MBID) Link: [MBID](https://pavantejaswivelivela.github.io/Multifunctional-BID/)
 - Online knowledge database of Biological feature information Link: [BIKAS](https://bikas.onrender.com/)
-- [Personal Portfolio](https://sites.google.com/view/pavantejaswivelivela)
   
 #### @Publications 
-
 - [ResearchGate](https://www.researchgate.net/profile/Pavan-Velivela)
 - [Google Scholar](https://scholar.google.ca/citations?user=gCrwkigAAAAJ&hl=en)
 
-#### @Connect
+#### @Portfolio
+- [Personal Portfolio](https://sites.google.com/view/pavantejaswivelivela)
 
+#### @Connect
 - [LinkedIn](https://www.linkedin.com/in/pavantejaswivelivela/)
 
 
