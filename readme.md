@@ -22,7 +22,7 @@ If you’re looking to explore bio-inspired innovation through a structured, fir
 - [Google Scholar](https://scholar.google.ca/citations?user=gCrwkigAAAAJ&hl=en)
 
 #### @Portfolio
-- [Personal Portfolio](https://sites.google.com/view/pavantejaswivelivela)
+- [Personal Portfolio](https://sites.google.com/view/pavantejaswi-velivela)
 
 #### @Connect
 - [LinkedIn](https://www.linkedin.com/in/pavantejaswivelivela/)
