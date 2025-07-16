@@ -14,7 +14,6 @@ If you’re looking to explore bio-inspired innovation through a structured, fir
 
 #### @Research Focus
 - MBID **ideation system** : Link: [MBID ideation system](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
-- Brief overview of Multifunctional Bio-inspired Design (MBID) Link: [MBID](https://pavantejaswivelivela.github.io/Multifunctional-BID/)
 - Online knowledge database of Biological feature information Link: [BIKAS](https://bikas.onrender.com/)
   
 #### @Publications 
