@@ -7,7 +7,7 @@ The ideation system is known as the MBID **ideation system**.
 
 If you’re looking to explore bio-inspired innovation through a structured, first-principles-driven approach, let’s connect
 
-#### @Research
+## Research
 - MBID **ideation system** : Link: [MBID ideation system](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
 - Online knowledge database of about 50 functional biological feature information Link: [BIKAS](https://bikas.onrender.com/)
 
@@ -17,8 +17,8 @@ If you’re looking to explore bio-inspired innovation through a structured, fir
 - Bachelor of Technology in Mechanical Engineering - Koneru Lakshmaiah College of Engineering (KL deemed to be a University), India.
   
 #### @Publications 
-- [ResearchGate](https://www.researchgate.net/profile/Pavan-Velivela)
 - [Google Scholar](https://scholar.google.ca/citations?user=gCrwkigAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Pavan-Velivela)
 
 #### @Portfolio
 - [Personal Portfolio](https://sites.google.com/view/pavantejaswi-velivela)
