@@ -9,7 +9,7 @@ If you’re looking to explore bio-inspired innovation through a structured, fir
 
 ## Research
 - MBID **ideation system** : Link: [MBID ideation system](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
-- Online knowledge database of about 50 functional biological feature information Link: [BIKAS](https://bikas.onrender.com/)
+- Interactive knowledge database of about 50 functional biological feature information Link: [BIKAS](https://bikas.onrender.com/)
 
 ## Education
 - Doctor of Philosophy in Mechanical Engineering - McGill University, Canada
