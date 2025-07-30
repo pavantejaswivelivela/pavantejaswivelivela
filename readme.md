@@ -1,11 +1,11 @@
 ## About
 Hi, I’m @pavantejaswivelivela. 
-I specialise in R&D for early-stage bio-inspired multifunctional technologies, developing a **structured front-end ideation system** that enables the creation of **bio-inspired multifunctional technologies**. My work bridges biology, design, and engineering to generate innovative, multifunctional solutions across various industries, including healthcare, aerospace, automotive, and marine applications.
-By integrating morphology (form), function, and materials, my framework provides a systematic approach to ideation, allowing researchers and industries to develop novel structures, components, and products that achieve unconventional functionalities.
+I specialise in R&D for early-stage bio-inspired multifunctional technologies, developing a **structured, morphology-driven front-end digital ideation system**—the **MBID ideation system**—that facilitates the creation of innovative multifunctional designs. My work integrates biology (morphology), product design, mechanical engineering, and Artificial intelligence to generate novel solutions across industries such as healthcare, aerospace, automotive, and marine.
 
-The ideation system is known as the MBID **ideation system**.
+By combining morphology, function, and materials, my framework offers a systematic approach to ideation, enabling researchers and industry professionals to develop structures and products with unconventional functionalities.
 
-If you’re looking to explore bio-inspired innovation through a structured, first-principles-driven approach, let’s connect
+If you’re interested in bio-inspired innovation through a structured, first-principles approach, let’s connect.
+
 
 ## Research
 - MBID **ideation system** : Link: [MBID ideation system](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
