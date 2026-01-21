@@ -8,7 +8,7 @@ If you’re interested in bio-inspired innovation through a structured, first-pr
 
 
 ## Research
-- **MBID ideation system** ideation system : Link: [MBID ideation system](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
+- **MBID ideation system** Link: [MBID ideation system](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
 - Interactive knowledge database of about 60 functional biological feature information Link: [BIKAS](https://bikas.onrender.com/)
 
 ## Education
