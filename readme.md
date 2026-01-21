@@ -2,7 +2,7 @@
 Hi, I’m @pavantejaswivelivela. 
 
 I am a Front-End Innovation Research Scientist specialising in the conception of **multifunctional bio-inspired structures**. I developed the **MBID ideation system**, a biological morphology-informed, rule-based concept design framework that facilitates the translation of functional biological morphological/structural strategies into novel multifunctional mechanical architectures.
-My work integrates bioinspiration (morphology), product design, and mechanical engineering to generate novel solutions across various industries, including soft & micro robotics, medical tools and surgical implants, space applications, automotive, and marine.
+My work integrates bioinspiration (morphology), product design, and mechanical engineering to generate novel solutions across various industries, including aerospace, medical and surgical devices, bio-inspired robotics (soft & micro), and environmental & energy systems.
 
 If you’re interested in bio-inspired innovation through a structured, first-principles approach, let’s connect.
 
