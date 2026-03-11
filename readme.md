@@ -5,7 +5,7 @@ Mechanical engineering PhD developing morphology-driven bio-inspired devices. Cr
 
 
 ## Research
-- **MBID ideation system v1.0** - [MBID ideation system](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
+- **MBID ideation system v1.0** - [MBID ideation system v1.0](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
 - Interactive knowledge database of about 60 functional biological feature information - [BIKAS](https://bikas.onrender.com/)
 
 ## Education
