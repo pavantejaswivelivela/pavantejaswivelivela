@@ -6,7 +6,7 @@ Mechanical engineering PhD developing morphology-driven bio-inspired devices. Cr
 
 ## Research
 - **MBID ideation system v1.0** - [MBID ideation system v1.0](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
-- Interactive knowledge database of about 60 functional biological feature information - [BIKAS](https://bikas.onrender.com/)
+- Interactive knowledge database of about 57 functional biological feature information - [BIKAS](https://bikas.onrender.com/)
 
 ## Education
 - Doctor of Philosophy in Mechanical Engineering - McGill University, Canada
@@ -25,5 +25,4 @@ Mechanical engineering PhD developing morphology-driven bio-inspired devices. Cr
 
 
 <h5> &copy; 2026 Pavan Tejaswi Velivela. All rights reserved </h5>
-The land I work at is situated on the traditional territory of the Kanien’kehà:ka, a place which has long served as a site of meeting and exchange amongst many First Nations, including the Kanien’kehá:ka of the Haudenosaunee Confederacy, Huron/Wendat, Abenaki, and Anishinaabeg. 
 
