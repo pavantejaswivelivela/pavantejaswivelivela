@@ -1,7 +1,7 @@
 ## About
 Hi, I’m @pavantejaswivelivela. 
 
-Mechanical engineering PhD, developing morphology-driven multifunctional bio-inspired structures and devices. Creator of the **MBID ideation system** for structured concept generation of bio-inspired structures and devices.
+Mechanical engineering PhD, developing morphology-driven multifunctional bio-inspired devices. Creator of the **MBID ideation system** for structured concept generation of bio-inspired devices.
 
 ## Research
 - **MBID ideation system v1.0** - [MBID ideation system v1.0](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
