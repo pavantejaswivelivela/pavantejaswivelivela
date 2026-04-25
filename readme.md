@@ -6,7 +6,7 @@ Mechanical engineering PhD, developing morphology-driven multifunctional bio-ins
 ## Research
 - **MBID ideation system v1.0** - [MBID ideation system v1.0](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
 - Interactive knowledge database of about 57 functional biological feature information - [BIKAS](https://bikas.onrender.com/)
-- Applicable Industries - MedTech, Robotics, Resource-constrained environments, Aerospace, and Marine
+- Applicable Industries - MedTech, Bio-inspired Robotics, Resource-constrained environments, Aerospace & Marine, Agriculture, Meta-materials, and Energy
 
 ## Education
 - Doctor of Philosophy in Mechanical Engineering - McGill University, Canada
