@@ -6,7 +6,7 @@ Professional info: R&D | Bio-inspired Physical Intelligence | Product Design & E
 
 I work at the intersection of bio-inspired physical intelligence, product design & engineering, and mechanical engineering.
 
-Building **MBID (Multifunctional Bio-inspired Design)** - a biological morphology-informed, rule-based product concept design and engineering framework for systematically generating multifunctional bio-inspired physically intelligent engineering concepts that can be translated into technically feasible products.
+Building **MBID (Multifunctional Bio-inspired Design)** - a biological morphology-informed, rule-based product design and engineering framework for systematically generating multifunctional bio-inspired physically intelligent engineering concepts that can be translated into technically feasible products.
 
 
 ## Research
