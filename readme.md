@@ -11,7 +11,8 @@ Building **MBID (Multifunctional Bio-inspired Design)** - a biological morpholog
 
 ## Research
 
-<img width="1678" height="348" alt="MBID MAIN" src="https://github.com/user-attachments/assets/49206722-12f9-4c39-8cc7-4ef29cfdc971" />
+<img width="1666" height="324" alt="MBID MAIN" src="https://github.com/user-attachments/assets/0b03ba94-ef9a-43db-8c44-ca74467ca910" />
+
 
 
 - **MBID Home** - Upcoming
