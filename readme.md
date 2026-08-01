@@ -1,4 +1,4 @@
-<img width="1672" height="444" alt="MBID MAIN" src="https://github.com/user-attachments/assets/a373f547-67eb-4349-8bfe-fc2f01125039" />
+
 ## About
 
 Hi, I’m @pavantejaswivelivela. 
@@ -12,7 +12,7 @@ Building **MBID (Multifunctional Bio-inspired Design)** - a biological morpholog
 
 ## Research
 
-<img width="1666" height="324" alt="MBID MAIN" src="https://github.com/user-attachments/assets/0b03ba94-ef9a-43db-8c44-ca74467ca910" />
+<img width="1672" height="444" alt="MBID MAIN" src="https://github.com/user-attachments/assets/a373f547-67eb-4349-8bfe-fc2f01125039" />
 
 
 - **Multifunctional Bio-inspired Design (MBID) v1, version 1** - [MBID v1](https://pavantejaswivelivela.github.io/MBID-ideation-system/) 
