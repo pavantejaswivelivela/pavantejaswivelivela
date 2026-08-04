@@ -17,7 +17,7 @@ Building **MBID (Multifunctional Bio-inspired Design)** - a biological morpholog
 
 - **Multifunctional Bio-inspired Design v1** - [MBID v1](https://pavantejaswivelivela.github.io/MBID-ideation-system/) 
 - **Applicable Industries** - Medical Devices, Architected Materials and Metamaterials, Soft, Micro- and Meso-scale Robotic Systems, Extreme Environment Systems
-- Trial version of BIKAS: Interactive knowledge database of about 57 functional biological feature information - [BIKAS](https://bikas.onrender.com/)
+- **Trial version of BIKAS**: Interactive knowledge database of about 57 functional biological feature information - [BIKAS](https://bikas.onrender.com/)
 
 ## Education
 - Doctor of Philosophy in Mechanical Engineering - McGill University, Canada
