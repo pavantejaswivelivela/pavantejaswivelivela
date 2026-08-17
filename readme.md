@@ -15,7 +15,8 @@ Building **MBID (Multifunctional Bio-inspired Design)** - a biological morpholog
 <img width="1672" height="444" alt="MBID MAIN" src="https://github.com/user-attachments/assets/a373f547-67eb-4349-8bfe-fc2f01125039" />
 
 
-- **Multifunctional Bio-inspired Design v1** - [MBID v1](https://pavantejaswivelivela.github.io/MBID-ideation-system/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21969289.svg)](https://doi.org/10.5281/zenodo.21969289)
+- **Multifunctional Bio-inspired Design v1** - [MBID v1](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
+  DOI: (https://doi.org/10.5281/zenodo.21969289)
   
 - **Multifunctional Bio-inspired Design v2** - [MBID v2] (To be released in 2027)
 - **Applicable Industries** - Medical Devices, Architected Materials and Metamaterials, Soft, Micro- and Meso-scale Robotic Systems, Extreme Environment Systems
