@@ -32,7 +32,7 @@ Building **MBID (Multifunctional Bio-inspired Design)** - a biological morpholog
 - [ResearchGate](https://www.researchgate.net/profile/Pavan-Velivela)
 
 #### @Portfolio
-- [Personal Portfolio](https://sites.google.com/view/pavantejaswi-velivela)
+- [Portfolio](https://sites.google.com/view/pavantejaswi-velivela)
 
 #### @Connect
 - [LinkedIn](https://www.linkedin.com/in/pavantejaswivelivela/)
