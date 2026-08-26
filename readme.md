@@ -3,7 +3,7 @@
 
 Hi, I’m @pavantejaswivelivela. 
 
-Professional info: R&D | Bio-inspired Physical Intelligence | Product Design & Engineering | New Product Development
+Professional info: R&D | Bio-inspired Physical Intelligence | Human-AI Integrated Product Design & Engineering 
 
 I work at the intersection of bio-inspired physical intelligence and product design & engineering for new product development
 
