@@ -3,11 +3,11 @@
 
 Hi, I’m @pavantejaswivelivela. 
 
-Professional info: R&D | Bio-inspired Physical Intelligence | Human-AI Integrated Product Design & Engineering 
+Professional info: Product R&D | Multifunctional Bio-inspired Physical Intelligence | Human-AI Integrated Bio-inspired Design Innovation 
 
-I work at the intersection of bio-inspired physical intelligence and product design & engineering for new product development
+My work sits at the intersection of bio-inspired physical intelligence, product design and engineering, and Human-AI integrated bio-inspired design innovation
 
-Building **MBID (Multifunctional Bio-inspired Design)** - a biological morphology-informed, rule-based product design and engineering framework for systematically generating multifunctional bio-inspired physically intelligent engineering concepts that can be translated into technically feasible products.
+Building **Multifunctional Bio-inspired Design (MBID)** - a biological morphology-informed, rule-based product design and engineering framework for systematically generating multifunctional bio-inspired physically intelligent engineering concepts that can be translated into technically feasible products.
 
 
 ## Research
