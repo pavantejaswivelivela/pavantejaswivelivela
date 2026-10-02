@@ -3,24 +3,28 @@
 
 Hi, I’m @pavantejaswivelivela. 
 
-Professional info: Product R&D | Multifunctional Bio-inspired Physical Intelligence | Human-AI Integrated Bio-inspired Design Innovation 
+Professional info: R&D Product Innovation | Multifunctional Bio-inspired Product Development | AI-Assisted Design | Human-AI Integrated Bio-inspired Design Innovation 
 
-My work sits at the intersection of bio-inspired physical intelligence, product design and engineering, and Human-AI integrated bio-inspired design innovation
+My work sits at the intersection of bio-inspired design, knowledge-based design, new product development and human-AI integrated design innovation
 
-Building **Multifunctional Bio-inspired Design (MBID)** - a biological morphology-informed, rule-based product design and engineering framework for systematically generating multifunctional bio-inspired physically intelligent engineering concepts that can be translated into technically feasible products.
+I develop multifunctional physically intelligent product concepts by translating biological morphology into engineering design rules, working across bio-inspired design, mechanical engineering, and new product development.
 
+**MBID**, the framework I built, guides designers from requirements to concepts verified through simulation. I'm expanding BIKAS, its AI-assisted, human-verified knowledge base of biological features.
+
+**Multifunctional Bio-inspired Design (MBID)** - a biological morphology-informed, rule-based product design and engineering framework for systematically generating multifunctional bio-inspired physically intelligent engineering concepts that can be translated into technically feasible products.
 
 ## Research
 
 <img width="1672" height="444" alt="MBID MAIN" src="https://github.com/user-attachments/assets/a373f547-67eb-4349-8bfe-fc2f01125039" />
 
-
-- **Multifunctional Bio-inspired Design v1** - [MBID v1](https://pavantejaswivelivela.github.io/MBID-ideation-system/)
-  DOI: (https://doi.org/10.5281/zenodo.21969289)
+**View Web Application**: [MBID v1](https://pavantejaswivelivela.github.io/MBID-ideation-system/) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21969289.svg)](https://doi.org/10.5281/zenodo.21969289)
   
-- **Multifunctional Bio-inspired Design v2** - [MBID v2] (To be released in 2027)
-- **Applicable Industries** - Medical Devices, Architected Materials and Metamaterials, Soft, Micro- and Meso-scale Robotic Systems, Extreme Environment Systems
-- **Trial version of BIKAS**: Interactive knowledge database of about 57 functional biological feature information - [BIKAS](https://bikas.onrender.com/)
+**Next version** - [MBID v2] (To be released in 2027)
+
+**Applicable Industries** - Medical Devices, Architected Materials and Metamaterials, Soft, Micro- and Meso-scale Robotic Systems, Extreme Environment Systems
+
+**Trial version of BIKAS**: Interactive knowledge database of about 57 functional biological feature information - [BIKAS](https://bikas.onrender.com/)
 
 ## Education
 - Doctor of Philosophy in Mechanical Engineering - McGill University, Canada
