@@ -11,7 +11,7 @@ I develop multifunctional physically intelligent product concepts by translating
 
 **MBID**, the framework I built, guides designers from requirements to concepts verified through simulation. I'm expanding BIKAS, its AI-assisted, human-verified knowledge base of biological features.
 
-**Multifunctional Bio-inspired Design (MBID)** - a biological morphology-informed, rule-based product design and engineering framework for systematically generating multifunctional bio-inspired physically intelligent engineering concepts that can be translated into technically feasible products.
+
 
 ## Research
 
@@ -19,6 +19,8 @@ I develop multifunctional physically intelligent product concepts by translating
 
 **View Web Application**: [MBID v1](https://pavantejaswivelivela.github.io/MBID-ideation-system/) 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21969289.svg)](https://doi.org/10.5281/zenodo.21969289)
+
+**Multifunctional Bio-inspired Design (MBID)** - a biological morphology-informed, rule-based product design and engineering framework for systematically generating multifunctional bio-inspired physically intelligent engineering concepts that can be translated into technically feasible products.
   
 **Next version** - [MBID v2] (To be released in 2027)
 
