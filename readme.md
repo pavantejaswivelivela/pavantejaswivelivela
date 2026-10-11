@@ -5,9 +5,9 @@ Hi, I’m @pavantejaswivelivela.
 
 Professional info: R&D Product Innovation | Multifunctional Bio-inspired Product Development | AI-Assisted Design | AI-Assisted Design
 
-My work sits at the intersection of bio-inspired design, knowledge-based design, new product development and human-AI integrated design innovation
+My work sits at the intersection of bio-inspired design, knowledge-based design, early-stage new product development and AI-assisted design
 
-I develop multifunctional physically intelligent product concepts by translating biological morphology into engineering design rules, working across bio-inspired design, mechanical engineering, and new product development.
+I develop multifunctional, bio-inspired, physically intelligent structure and device concepts by translating biological morphology into engineering design rules, integrating bio-inspired design, mechanical engineering, and early-stage new product development.
 
 **MBID**, the framework I built, guides designers from requirements to concepts verified through simulation. I'm expanding BIKAS, its AI-assisted, human-verified knowledge base of biological features.
 
