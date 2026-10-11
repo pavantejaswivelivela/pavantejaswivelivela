@@ -3,7 +3,7 @@
 
 Hi, I’m @pavantejaswivelivela. 
 
-Professional info: R&D Product Innovation | Multifunctional Bio-inspired Product Development | AI-Assisted Design | Human-AI Integrated Bio-inspired Design Innovation 
+Professional info: R&D Product Innovation | Multifunctional Bio-inspired Product Development | AI-Assisted Design | AI-Assisted Design
 
 My work sits at the intersection of bio-inspired design, knowledge-based design, new product development and human-AI integrated design innovation
 
