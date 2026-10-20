@@ -1,4 +1,5 @@
 
+
 ## About
 
 Hi, I’m @pavantejaswivelivela. 
@@ -15,7 +16,7 @@ I develop multifunctional, bio-inspired, physically intelligent structure and de
 
 ## Research
 
-<img width="1672" height="444" alt="MBID MAIN" src="https://github.com/user-attachments/assets/a373f547-67eb-4349-8bfe-fc2f01125039" />
+<img width="2022" height="318" alt="MBID logo refined" src="https://github.com/user-attachments/assets/d2c2c795-518c-47c8-934b-33efc4f562e1" />
 
 **Multifunctional Bio-inspired Design (MBID)** is a biological morphology-informed, rule-based, early-stage product development framework for systematically generating concepts for multifunctional, bio-inspired, physically intelligent structures and devices that can be developed into technically feasible products.
 
