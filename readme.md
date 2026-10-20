@@ -28,11 +28,6 @@ I develop multifunctional, bio-inspired, physically intelligent structure and de
 **Applicable Industries** - Medical Devices, Architected Materials and Metamaterials, Soft, Micro- and Meso-scale Robotic Systems, Extreme Environment Systems
 
 **Trial version of BIKAS**: Interactive knowledge database of about 57 functional biological feature information - [BIKAS](https://bikas.onrender.com/)
-
-## Education
-- Doctor of Philosophy in Mechanical Engineering - McGill University, Canada
-- Master of Science (Laurea Magistrale) in Design & Engineering - Politecnico di Milano, Italy
-- Bachelor of Technology in Mechanical Engineering - Koneru Lakshmaiah College of Engineering (KL deemed to be a University), India.
   
 #### @Publications 
 - [Google Scholar](https://scholar.google.ca/citations?user=gCrwkigAAAAJ&hl=en)
