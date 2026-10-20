@@ -17,7 +17,10 @@ I develop multifunctional, bio-inspired, physically intelligent structure and de
 
 <img width="1672" height="444" alt="MBID MAIN" src="https://github.com/user-attachments/assets/a373f547-67eb-4349-8bfe-fc2f01125039" />
 
-**Multifunctional Bio-inspired Design (MBID)** - a biological morphology-informed, rule-based product design and engineering framework for systematically generating multifunctional bio-inspired physically intelligent engineering concepts that can be translated into technically feasible products.
+**Multifunctional Bio-inspired Design (MBID)** is a biological morphology-informed, rule-based, early-stage product development framework for systematically generating concepts for multifunctional, bio-inspired, physically intelligent structures and devices that can be developed into technically feasible products.
+
+<img width="3469" height="62" alt="image" src="https://github.com/user-attachments/assets/801ed7c8-1dd2-48bd-a184-1be600ab0156" />
+
 
 - **MBID version 1**: [**MBID v1**](https://pavantejaswivelivela.github.io/MBID-ideation-system/) 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21969289.svg)](https://doi.org/10.5281/zenodo.21969289)
