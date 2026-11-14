@@ -20,6 +20,8 @@ I develop multifunctional, bio-inspired, physically intelligent structure and de
 
 **Multifunctional Bio-inspired Design (MBID)** is a biological morphology-informed, rule-based, early-stage product development framework for systematically generating concepts for multifunctional, bio-inspired, physically intelligent structures and devices that can be developed into technically feasible products.
 
+- **MBID Home**: [**MBID Home**] (To be released in 2027)
+
 - **MBID version 1**: [**MBID v1**](https://pavantejaswivelivela.github.io/MBID-ideation-system/) 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21969289.svg)](https://doi.org/10.5281/zenodo.21969289)
 
