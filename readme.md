@@ -21,14 +21,14 @@ Professional info: R&D | New Product Development | Multifunctional Bio-inspired 
 
 **Trial version of BIKAS**: Interactive knowledge database of about 57 functional biological feature information - [BIKAS](https://bikas.onrender.com/)
   
-#### @Publications 
+## Publications 
 - [Google Scholar](https://scholar.google.ca/citations?user=gCrwkigAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Pavan-Velivela)
 
-#### @Portfolio
+## Portfolio
 - [Portfolio](https://sites.google.com/view/pavantejaswi-velivela)
 
-#### @Connect
+## Connect
 - [LinkedIn](https://www.linkedin.com/in/pavantejaswivelivela/)
 
 
