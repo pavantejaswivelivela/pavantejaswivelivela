@@ -17,18 +17,20 @@ Professional info: R&D | New Product Development | Multifunctional Bio-inspired 
 
 - **MBID version 2** - [**MBID v2**] (To be released in 2027)
 
+- **MBID application case studies** - [MBID application case studies] (To be released shortly)
+
 **Applicable Industries** - Medical Devices, Architected Materials and Metamaterials, Soft, Micro- and Meso-scale Robotic Systems, Extreme Environment Systems
 
 **Trial version of BIKAS**: Interactive knowledge database of about 57 functional biological feature information - [BIKAS](https://bikas.onrender.com/)
   
-## Publications 
+#### Publications 
 - [Google Scholar](https://scholar.google.ca/citations?user=gCrwkigAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Pavan-Velivela)
 
-## Portfolio
-- [Portfolio](https://sites.google.com/view/pavantejaswi-velivela)
+#### Portfolio
+- [Portfolio](https://sites.google.com/view/pavantejaswi-velivela) (Will be changing the domain shortly)
 
-## Connect
+#### Connect
 - [LinkedIn](https://www.linkedin.com/in/pavantejaswivelivela/)
 
 
