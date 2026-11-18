@@ -4,7 +4,7 @@
 
 Hi, I’m @pavantejaswivelivela. 
 
-Professional info: R&D | New Product Development | Multifunctional Bio-inspired Structures | Small-scale Robotics and Devices
+Professional info: R&D | New Product Development | Multifunctional Bio-inspired Physically Intelligent Structures
 
 ## Research
 
